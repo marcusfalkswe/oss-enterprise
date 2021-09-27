@@ -1,3 +1,5 @@
+# Thanks for contributing! #
+
 ## Contributing
 
 [fork]: https://github.com/ORG/REPO/fork
