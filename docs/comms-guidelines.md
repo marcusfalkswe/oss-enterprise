@@ -20,6 +20,9 @@ Community members with prior contributions will be identified with a CONTRIBUTOR
 
 <img width="778" alt="contributor-badge" src="https://user-images.githubusercontent.com/16547949/33770637-6f3b5ebc-dbfc-11e7-882b-f7e9dd3d155b.png">
 
+###
+Super urgent issues, contact me.
+
 ### Enforcing to the code of conduct
 
 Our [CODE OF CONDUCT](templates/code-of-conduct.md) outlines the behavior we expect from our community. Maintainers are responsible for enforcing violations they witness, or those that have been reported to <EMAIL-FROM-CODE-OF-CONDUCT>.
